@@ -86,7 +86,7 @@ async function* asyncGenerator(array) {
   let tab = [
     "call 1.1",
     "call 1.2",
-    "call 1.3"
+    "call 1.3",
     "call 1.4",
     "call 1.5",
     "call 1.6"
@@ -129,7 +129,7 @@ async function* asyncGenerator(array) {
   await process3([
     "call 3.1",
     "call 3.2",
-    "call 3.3"
+    "call 3.3",
     "call 3.4",
     "call 3.5",
     "call 3.6"

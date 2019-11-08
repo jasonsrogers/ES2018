@@ -76,7 +76,7 @@ async function* asyncGenerator(array) {
 (async () => {
   async function process(array) {
     console.log(
-      "This will not wait for the calls to resolves before triggering the next"
+      "This seems to wait correctly too, NEED TO DIG MORE"
     );
     for (let i of array) {
       let res = await mockAsync(i);

@@ -3,9 +3,7 @@ New JavaScript features in ES2018:
 Note:
 This is mainly my own cheat sheet of the new stuff that has come out in ES2018
 
-
-
-➡️ Asynchronous/Synchronous Iteration
+➡️ Asynchronous/Synchronous Iteration <=== //example not correct yet
 
 ➡️ Promise.finally()
 
@@ -13,7 +11,7 @@ This is mainly my own cheat sheet of the new stuff that has come out in ES2018
 
 ➡️ Template Literals Tweak
 
-new Regex features to help make those cryptic regex more human to read ^^ 
+new Regex features to help make those cryptic regex more human to read ^^
 
 ➡️ Regular Expression Named Capture Groups
 
@@ -22,4 +20,3 @@ new Regex features to help make those cryptic regex more human to read ^^
 ➡️ Regular Expression s (dotAll) Flag
 
 ➡️ Regular Expression Unicode Property Escapes
-
